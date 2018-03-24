@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "xfhAIZyZ+m7Pt6zRPh/4MCGEAmE=",
+			"path": "github.com/looplab/fsm",
+			"revision": "8def87414f14eaa69e4ee40abd20a7c195cea6f4",
+			"revisionTime": "2018-01-16T11:52:15Z"
+		}
+	],
+	"rootPath": "goose3-controls"
+}
